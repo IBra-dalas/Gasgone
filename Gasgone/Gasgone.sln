@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAdmin", "ApiAdmin\ApiAdmin.csproj", "{30555DBA-507B-4641-AE4C-523D33DE6978}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestionStock", "GestionStock\GestionStock.csproj", "{B9EDD19F-808E-4216-8E76-330AE4D805A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM", "ORM\ORM.csproj", "{4AC6CA5A-E09E-45B1-993D-D1E553FBE9B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30555DBA-507B-4641-AE4C-523D33DE6978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30555DBA-507B-4641-AE4C-523D33DE6978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30555DBA-507B-4641-AE4C-523D33DE6978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30555DBA-507B-4641-AE4C-523D33DE6978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9EDD19F-808E-4216-8E76-330AE4D805A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EDD19F-808E-4216-8E76-330AE4D805A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EDD19F-808E-4216-8E76-330AE4D805A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EDD19F-808E-4216-8E76-330AE4D805A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC6CA5A-E09E-45B1-993D-D1E553FBE9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC6CA5A-E09E-45B1-993D-D1E553FBE9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC6CA5A-E09E-45B1-993D-D1E553FBE9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC6CA5A-E09E-45B1-993D-D1E553FBE9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08958486-4C4A-4E29-BE38-0A6F4AC98D70}
+	EndGlobalSection
+EndGlobal
