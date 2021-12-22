@@ -20,6 +20,15 @@ namespace Gasgone.ORM.Data
 
         public DbSet<CommandeFournisseur> CmandFournisseur { get; set; }
 
+        public DbSet<StatutCommande> StatutCmand { get; set; }
+
+        public DbSet<FactureCommande> FactureCmand { get; set; }
+
+        public DbSet<CommandeArticle> CmandArticle { get; set; }
+
+        public DbSet<StatutCommande> StatutCmand { get; set; }
+
+        public DbSet<Statut> Statut { get; set; }
 
     }
 }
