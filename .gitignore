@@ -1,0 +1,6 @@
+.vs/slnx.sqlite
+.vs/ProjectSettings.json
+Gasgone/ApiAdmin/obj/Debug/net5.0/ApiAdmin.GeneratedMSBuildEditorConfig.editorconfig
+Gasgone/GestionStock/obj/Debug/net5.0-windows/GestionStock.GeneratedMSBuildEditorConfig.editorconfig
+Gasgone/ORM/obj/Debug/net5.0-windows/ORM.GeneratedMSBuildEditorConfig.editorconfig
+Gasgone/ORM/obj/Release/net5.0-windows/ORM.GeneratedMSBuildEditorConfig.editorconfig
